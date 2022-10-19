@@ -1,8 +1,10 @@
 # 399-Asians-35112-Images-Multi-pose-Face-Data-with-21-Facial-Landmarks-Annotation
-https://www.datatang.ai/datasets/173
+
 
 ## Description
 399 Asian People 35,112 Images Multi-pose Face Data with 21 Facial Landmarks Annotation, this data collected 399 people(88 images per person). The data diversity includes multiple poses, different ages, different light conditions and multiple scenes. This data can be used for tasks such as face detection and face recognition.
+
+For more details, please refer to the link: https://bit.ly/3DXeXNV
 
 ## Data size
 399 people, 88 images per person
@@ -33,3 +35,6 @@ cellphone
 
 ## Accuracy
 the accuracy of labels of gender, face pose, year of birth, light condition, scene and wearing glasses or not is more than 97%；annotation accuracy of facial landmarks is more than 97%
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
