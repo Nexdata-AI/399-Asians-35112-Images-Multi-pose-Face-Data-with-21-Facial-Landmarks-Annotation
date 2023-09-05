@@ -4,7 +4,8 @@
 ## Description
 399 Asian People 35,112 Images Multi-pose Face Data with 21 Facial Landmarks Annotation, this data collected 399 people(88 images per person). The data diversity includes multiple poses, different ages, different light conditions and multiple scenes. This data can be used for tasks such as face detection and face recognition.
 
-For more details, please refer to the link: https://bit.ly/3DXeXNV
+For more details, please refer to the link: https://www.nexdata.ai/datasets/173?source=Github
+
 
 ## Data size
 399 people, 88 images per person
